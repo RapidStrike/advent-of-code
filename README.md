@@ -7,5 +7,6 @@ Using this as an opportunity to learn Rust. Code will not be optimized.
 | Advent Calendar (2022) | Stars |
 |-|-|
 | Day 1 | ** |
-| Day 2 | ** |
+| Day 2 | ** | 
 | Day 3 | ** |
+| Day 4 | ** |
