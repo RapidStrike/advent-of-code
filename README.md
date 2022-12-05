@@ -10,3 +10,4 @@ Using this as an opportunity to learn Rust. Code will not be optimized.
 | Day 2 | ** | 
 | Day 3 | ** |
 | Day 4 | ** |
+| Day 5 | ** |
