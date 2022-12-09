@@ -14,3 +14,4 @@ Using this as an opportunity to learn Rust. Code will not be optimized or pretty
 | Day 6 | ** |
 | Day 7 | ** |
 | Day 8 | ** |
+| Day 9 | ** |
