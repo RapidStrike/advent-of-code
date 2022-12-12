@@ -17,3 +17,4 @@ Using this as an opportunity to learn Rust. Code will not be optimized or pretty
 | **Day 9** - Rope Bridge | :star::star: |
 | **Day 10** - Cathode-Ray Tube | :star::star: |
 | **Day 11** - Monkey in the Middle | :star::star: |
+| **Day 12** - Hill Climbing Algorithm | :star::star: |
