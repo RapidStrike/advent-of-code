@@ -19,3 +19,4 @@ Using this as an opportunity to learn Rust. Code will not be optimized or pretty
 | **Day 11** - Monkey in the Middle | :star::star: |
 | **Day 12** - Hill Climbing Algorithm | :star::star: |
 | **Day 13** - Distress Signal | :star::star::horse: |
+| **Day 14** - Regolith Reservoir | :star::star: |
