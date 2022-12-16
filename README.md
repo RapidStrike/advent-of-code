@@ -21,3 +21,4 @@ Using this as an opportunity to learn Rust. Code will not be optimized or pretty
 | **Day 13** - Distress Signal | :star::star::horse: |
 | **Day 14** - Regolith Reservoir | :star::star: |
 | **Day 15** - Beacon Exclusion Zone | :star::star: |
+| **Day 16** - Proboscidea Volcanium | :star::star::horse: |
