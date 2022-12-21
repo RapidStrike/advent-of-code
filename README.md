@@ -26,3 +26,4 @@ Using this as an opportunity to learn Rust. Code will not be optimized or pretty
 | **Day 18** - Boiling Boulders | :star::star: |
 | **Day 19** - Not Enough Minerals | :star::star: |
 | **Day 20** - Grove Positioning System | :star::star: |
+| **Day 21** - Monkey Math | :star::star: |
